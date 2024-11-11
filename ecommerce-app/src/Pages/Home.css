@@ -1,0 +1,15 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .featured-products {
+    margin-top: 20px;
+  }
+  
